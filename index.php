@@ -16,7 +16,7 @@ include('menu.php');
         <div class="col-xs-3 line">
           <hr>
         </div>
-        <div class="col-xs-6 logo text-center" style="text-shadow: 2px 2px #330000;"><u><h1><strong>Blood Test2 Bank</strong></h1></u><br>Donate Blood</div>
+        <div class="col-xs-6 logo text-center" style="text-shadow: 2px 2px #330000;"><u><h1><strong>Blood Bank</strong></h1></u><br>Donate Blood</div>
         <div class="col-xs-3 line">
           <hr>
         </div>
