@@ -1,0 +1,34 @@
+.container-fluid{
+	/*background-color: #99ccff;*/
+	/*background: -webkit-linear-gradient(#ffffff,#e6e6e6,#ffffff,#e6e6e6,#ffffff);*/
+	/*text-align: center;*/
+	font-weight: bold;
+
+}
+.well{
+	background-image: url("../img/blood2.png");
+	color: #e6f2ff;
+	font-weight: 1000;
+	text-align: center;
+	
+
+
+}
+.table-condensed a{
+	color: #e60000;
+	 text-transform: capitalize;
+
+
+}
+
+
+
+.btn-primary{
+	background: #000000;
+}
+
+
+#adm{
+	margin-left: 90%;
+	background: #003366;
+}

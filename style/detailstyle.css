@@ -1,0 +1,13 @@
+.container-fluid{
+	background-color: #99b3ff;
+	text-align: center;
+	font-weight: bold;
+}
+.panel-body{
+	text-transform: capitalize;
+
+}
+.panel-heading{
+	text-transform: capitalize;
+
+}

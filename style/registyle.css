@@ -1,0 +1,17 @@
+.well{
+	/*background: -webkit-linear-gradient(#85a3e0,#c2d1f0,#adc2eb,#99b3e6,#85a3e0,#7094db,#5c85d6,#4775d1,#d6e0f5,#c2d1f0);*/
+	color: #ffffff;
+	text-align: center;
+}
+
+.form-horizontal{
+	/*background-color: #3399ff;*/
+	padding: 20px 16px;
+
+
+
+}
+.control-label{
+	text-align: center;
+	;
+}
